@@ -43,9 +43,9 @@
 ### 📊 GitHub İstatistikleri
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KenanOzt&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=0&v=2" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KenanOzt&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanOzt&layout=compact&theme=dark&hide_border=true&cache_seconds=0&v=2" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanOzt&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
 </div>
