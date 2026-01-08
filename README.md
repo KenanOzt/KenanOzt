@@ -37,15 +37,3 @@
   <img src="https://img.shields.io/badge/Excel_Automation-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 
 </div>
-
----
-
-### 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KenanOzt&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanOzt&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-</div>
