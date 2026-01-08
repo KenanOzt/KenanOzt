@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Merhaba, ben Kenan 👋</h1>
+<h3 align="center">Computer Programming Student | Backend Developer Enthusiast</h3>
 
-<!--
-**KenanOzt/KenanOzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Kodun okunabilirliği, çalışmasından daha önemlidir. - Clean Code Prensibi</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:ozturkkenan480@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Bize_Ulaşın-blue?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 Hakkımda
+Şu anda **Bilgisayar Programcılığı** bölümünde öğrenciyim. Odak noktam spagetti kodlardan uzak, sürdürülebilir ve modüler backend mimarileri kurmak. 
+
+- 🔭 Şu an üzerinde çalıştığım proje: **Django tabanlı "Headless" Rent A Car API**
+- 🌱 Öğrendiklerim: **Python, Django REST Framework, Docker**
+- ⚡ İlgi alanlarım: **Veri Otomasyonu, Sistem Mimarisi, Game Dev (Unreal)**
+
+---
+
+### 🛠️ Teknoloji Yığını (Tech Stack)
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel_Automation-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+</div>
